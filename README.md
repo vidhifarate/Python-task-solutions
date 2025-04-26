@@ -1,4 +1,3 @@
-# Python-task-solutions
 # Python Tasks - Vidhi Sunil Farate
 
 This repository contains my solutions for the Python tasks for Quantbit Technologies.
